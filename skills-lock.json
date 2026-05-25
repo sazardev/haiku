@@ -1,0 +1,81 @@
+{
+  "version": 1,
+  "skills": {
+    "accessibility": {
+      "source": "addyosmani/web-quality-skills",
+      "sourceType": "autoskills-registry",
+      "computedHash": "bffe3d08cfe92ebad63699f74ce29e35c19850ebfbf474c1463183cfe34d6a09"
+    },
+    "bash-defensive-patterns": {
+      "source": "wshobson/agents",
+      "sourceType": "autoskills-registry",
+      "computedHash": "1f566c2d9c3b50a784b05d08f6b08ebfeb31f038e4d4173f2d488484edb058a6"
+    },
+    "caveman": {
+      "source": "juliusbrussee/caveman",
+      "sourceType": "github",
+      "skillPath": "skills/caveman/SKILL.md",
+      "computedHash": "7935e83f9c6a8b7cbb5404d144b0d19e3ba93583f4388301c3dada37cd25adf8"
+    },
+    "caveman-commit": {
+      "source": "juliusbrussee/caveman",
+      "sourceType": "github",
+      "skillPath": "skills/caveman-commit/SKILL.md",
+      "computedHash": "1dd642480aee47934d6c202fd471e41922c7dc312e92a6e38059442b39bb0795"
+    },
+    "caveman-help": {
+      "source": "juliusbrussee/caveman",
+      "sourceType": "github",
+      "skillPath": "skills/caveman-help/SKILL.md",
+      "computedHash": "7a667161d6a0644fa175b0cb4a043b76108a603af70cf25f62afd788191a3fa8"
+    },
+    "caveman-review": {
+      "source": "juliusbrussee/caveman",
+      "sourceType": "github",
+      "skillPath": "skills/caveman-review/SKILL.md",
+      "computedHash": "b9091dbc51de0f3710ea818fd4d638539f8c1784f8fda931eb159c44861e702e"
+    },
+    "dart-best-practices": {
+      "source": "kevmoo/dash_skills",
+      "sourceType": "autoskills-registry",
+      "computedHash": "37da3773e51308a56bfc011659ba609b658be3308f9282b4e4d028da88bdeba2"
+    },
+    "flutter-animations": {
+      "source": "madteacher/mad-agents-skills",
+      "sourceType": "autoskills-registry",
+      "computedHash": "bb61dc664754acb797b37ffe2ce2a42212eb7f92eeab575797a05413b2ef134b"
+    },
+    "flutter-apply-architecture-best-practices": {
+      "source": "flutter/skills",
+      "sourceType": "github",
+      "skillPath": "skills/flutter-apply-architecture-best-practices/SKILL.md",
+      "computedHash": "baeb208b1cab90c559677626dbd101b96ba93f803cbed85122abdadeb3283a8b"
+    },
+    "flutter-build-responsive-layout": {
+      "source": "flutter/skills",
+      "sourceType": "github",
+      "skillPath": "skills/flutter-build-responsive-layout/SKILL.md",
+      "computedHash": "6d74a9504c4e355c4c62f6fcb6c6dc0df67b56dd6616bea199e4e58f75b7729b"
+    },
+    "flutter-expert": {
+      "source": "jeffallan/claude-skills",
+      "sourceType": "autoskills-registry",
+      "computedHash": "71285453d40e4949865bf47cf63b7f41dd4461f44cd1a3970eb3eb0e76b9025b"
+    },
+    "flutter-testing": {
+      "source": "madteacher/mad-agents-skills",
+      "sourceType": "autoskills-registry",
+      "computedHash": "9de813d81db8ad38630a28b893494c1ebfe5def0e5d47cfb46c632ea7d2d92e5"
+    },
+    "frontend-design": {
+      "source": "anthropics/skills",
+      "sourceType": "autoskills-registry",
+      "computedHash": "82fb11a63fb1e35ee2469516ed02d54695f783115b1540c0e783197af4240a3a"
+    },
+    "seo": {
+      "source": "addyosmani/web-quality-skills",
+      "sourceType": "autoskills-registry",
+      "computedHash": "c184da724d1c61ad077f27418ea8e7e88fd54bcdf98165e18be7e4681cbd5e20"
+    }
+  }
+}
